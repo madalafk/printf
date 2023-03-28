@@ -1,5 +1,5 @@
 #include "main.h"
-
+/*Frank and Attah collaborated on this*/
 /* PRINT CHAR */
 /**
  * print_char - Prints a char

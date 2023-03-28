@@ -1,5 +1,5 @@
 #include "main.h"
-
+/*Frank and Attah collaborated on this*/
 /* WRITE HANDLE */
 /**
  * handle_write_char - Prints a string
