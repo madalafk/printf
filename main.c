@@ -1,7 +1,7 @@
 #include <limits.h>
 #include <stdio.h>
 #include "main.h"
-
+/* Frank and Attah collaborated on this */
 /**
  * main - Entry point
  *
