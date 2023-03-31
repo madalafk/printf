@@ -1,6 +1,7 @@
 #include "main.h"
-/*Frank and Attah collaborated on this*/
+
 /* PRINT CHAR */
+
 /**
  * print_char - Prints a char
  * @types: List a of arguments
@@ -137,7 +138,7 @@ int print_int(va_list types, char buffer[],
 
 	i++;
 
-return (write_number(is_negative, i, buffer, flags, width, precision, size));
+	return (write_number(is_negative, i, buffer, flags, width, precision, size));
 }
 
 /* PRINT BINARY */

@@ -1,7 +1,7 @@
 #include <limits.h>
 #include <stdio.h>
 #include "main.h"
-/*Frank and Attah collaborated on this*/
+
 /**
  * main - Entry point
  *
@@ -9,7 +9,7 @@
  */
 int main(void)
 {
-nt len;
+int len;
 int len2;
 unsigned int ui;
 void *addr;

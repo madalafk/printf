@@ -1,6 +1,5 @@
-
 #include "main.h"
-/*Frank and Attah collaborated on this*/
+
 /**
  * is_printable - Evaluates if a char is printable
  * @c: Char to be evaluated.
