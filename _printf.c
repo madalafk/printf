@@ -1,5 +1,5 @@
 #include "main.h"
-
+/* Frank and Attah collaborated on this */
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
