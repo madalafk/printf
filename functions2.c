@@ -1,5 +1,5 @@
 #include "main.h"
-
+/* Frank and Attah collaborated on this */
 /* PRINT POINTER */
 /**
  * print_pointer - Prints the value of a pointer variable
