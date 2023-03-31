@@ -3,7 +3,7 @@
 #include <stdarg.h>
 #include <stdio.h>
 #include <unistd.h>
-
+/* Frank and Attah collaborated on this */
 #define UNUSED(x) (void)(x)
 #define BUFF_SIZE 1024
 
